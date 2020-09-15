@@ -1,0 +1,7 @@
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csprojAssemblyReference.cache
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
