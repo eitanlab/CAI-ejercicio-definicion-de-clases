@@ -1,0 +1,7 @@
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\bin\Debug\Almacen.exe.config
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\bin\Debug\Almacen.exe
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\bin\Debug\Almacen.pdb
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\obj\Debug\Almacen.exe
+C:\Users\elabendz\Documents\ejercicio-definicion-de-clases\CAI-ejercicio-definicion-de-clases\Almacen\Almacen\obj\Debug\Almacen.pdb

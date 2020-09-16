@@ -15,7 +15,6 @@ namespace Veterinaria
         private int _maxPacientes;
         private int _pacientesRecuperados;
         private int _pacientesMuertos;
-
         public Veterinaria(string nombreVeterinaria,int capacidad)
         {
             nombre = nombreVeterinaria;
